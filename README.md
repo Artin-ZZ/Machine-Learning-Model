@@ -10,4 +10,4 @@ A Very Simple Machine Learning Model that Predicts Titanic ship's Survival Rate
 
 # Creators Words:
 - Use this model for your learnings and etc.
-- Have fun with it and make new ideas out of it.
+- This MODEL Is Open Source Feel Free To Use It In Your Own Code Or Make Any Changes To It.
